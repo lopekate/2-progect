@@ -1,0 +1,36 @@
+table {
+    background-color:#000000;
+    border: 2px solid #000000;
+    width: 300px;
+    height: 300px;
+     margin: auto;
+}
+.cet{
+    background-color:#fff0e4;
+}
+.ncet{
+    background-color:#ffa570;
+}
+.header {
+    background-color:#fdb67c;
+     height: 100px;
+   font-size: 40px;
+
+}
+.nav {
+    background-color:#ffe7cbe0;
+
+    width: 960px;
+    text-align: center;
+    margin: auto;
+}
+.footer {
+     background-color:#974c0fbb;
+     height: 70px;
+    font-size: 40px;
+}
+.logo {
+width:120px;
+float:left;
+margin:10px;
+}
